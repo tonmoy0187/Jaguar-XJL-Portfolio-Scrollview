@@ -21,6 +21,7 @@
 		1C93BE49183A6DCF000456C5 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 1C93BE2B183A6DCF000456C5 /* UIKit.framework */; };
 		1C93BE51183A6DCF000456C5 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 1C93BE4F183A6DCF000456C5 /* InfoPlist.strings */; };
 		1C93BE53183A6DCF000456C5 /* Jaguar_XJ_L_PortfolioTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 1C93BE52183A6DCF000456C5 /* Jaguar_XJ_L_PortfolioTests.m */; };
+		1C93BE5D183A6FEA000456C5 /* Jaguar XJ One.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 1C93BE5C183A6FEA000456C5 /* Jaguar XJ One.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -53,6 +54,7 @@
 		1C93BE4E183A6DCF000456C5 /* Jaguar XJ L PortfolioTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "Jaguar XJ L PortfolioTests-Info.plist"; sourceTree = "<group>"; };
 		1C93BE50183A6DCF000456C5 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		1C93BE52183A6DCF000456C5 /* Jaguar_XJ_L_PortfolioTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Jaguar_XJ_L_PortfolioTests.m; sourceTree = "<group>"; };
+		1C93BE5C183A6FEA000456C5 /* Jaguar XJ One.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Jaguar XJ One.jpg"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -126,6 +128,7 @@
 		1C93BE2E183A6DCF000456C5 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				1C93BE5C183A6FEA000456C5 /* Jaguar XJ One.jpg */,
 				1C93BE2F183A6DCF000456C5 /* Jaguar XJ L Portfolio-Info.plist */,
 				1C93BE30183A6DCF000456C5 /* InfoPlist.strings */,
 				1C93BE33183A6DCF000456C5 /* main.m */,
@@ -231,6 +234,7 @@
 			files = (
 				1C93BE40183A6DCF000456C5 /* Images.xcassets in Resources */,
 				1C93BE32183A6DCF000456C5 /* InfoPlist.strings in Resources */,
+				1C93BE5D183A6FEA000456C5 /* Jaguar XJ One.jpg in Resources */,
 				1C93BE3B183A6DCF000456C5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

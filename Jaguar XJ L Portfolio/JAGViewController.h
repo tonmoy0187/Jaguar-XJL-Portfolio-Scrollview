@@ -8,6 +8,15 @@
 
 #import <UIKit/UIKit.h>
 
-@interface JAGViewController : UIViewController
+@interface JAGViewController : UIViewController   <UIScrollViewDelegate>
+
+// Properties For scrollview
+
+
+@property (strong,nonatomic) UIImageView * jaguarImage;
+@property (strong, nonatomic) IBOutlet UIScrollView *jaguarScrollView;
+@property (strong, nonatomic) IBOutlet UILabel *jaguarNameLabel;
+
+
 
 @end
